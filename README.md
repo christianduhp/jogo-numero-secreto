@@ -24,6 +24,6 @@ Por fim, um listener de evento é adicionado ao corpo da página, que escuta os 
 | :label: Tecnologias | HTML, CSS, JS
 | :rocket: URL | <a href="https://christianduhp.github.io/jogo-numero-secreto/">Site Lista de Viagem</a> 
 
-![image](https://user-images.githubusercontent.com/85292359/235391186-dd13da25-980c-4aef-a360-ca0ab6a5da12.png)
-![image](https://user-images.githubusercontent.com/85292359/235391342-b2cac461-d5fc-4ded-a450-064c180eec67.png)
+![image](https://user-images.githubusercontent.com/85292359/235391186-dd13da25-980c-4aef-a360-ca0ab6a5da12.png#vitrinedev)
+![image](https://user-images.githubusercontent.com/85292359/235391342-b2cac461-d5fc-4ded-a450-064c180eec67.png#vitrinedev)
 
