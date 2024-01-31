@@ -16,14 +16,6 @@ A função chuteForInvalido() verifica se o valor do chute é inválido, retorna
 
 Por fim, um listener de evento é adicionado ao corpo da página, que escuta os cliques no botão "Jogar novamente" e reinicia o jogo quando o botão é clicado.
 
-## Vitrine.Dev
-
-| :placard: Vitrine.Dev |<a href="https://cursos.alura.com.br/vitrinedev/christianoliver">Christian Oliveira</a> |
-| -------------  | --- |
-| :sparkles: Nome        | **Adivinhe o Número Secreto **
-| :label: Tecnologias | HTML, CSS, JS
-| :rocket: URL | <a href="https://christianduhp.github.io/jogo-numero-secreto/">Site Lista de Viagem</a> 
-
 ![image](https://user-images.githubusercontent.com/85292359/235391186-dd13da25-980c-4aef-a360-ca0ab6a5da12.png#vitrinedev)
 ![image](https://user-images.githubusercontent.com/85292359/235391342-b2cac461-d5fc-4ded-a450-064c180eec67.png#vitrinedev)
 
